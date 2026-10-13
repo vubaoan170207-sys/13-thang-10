@@ -1,0 +1,10 @@
+/* Tùy chỉnh font chữ hoặc animation bổ sung nếu cần */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.font-serif-title {
+    font-family: 'Playfair Display', serif;
+}
